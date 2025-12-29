@@ -31,7 +31,7 @@ This analysis addresses:
   - Gender
   - Employment status
 
-> ⚠️ Raw ESS data exceeds GitHub size limits.  
+> Raw ESS data exceeds GitHub size limits.  
 > Analysis was performed on a **Slovakia-filtered dataset (1,418 records)**.  
 > Full dataset and codebook are publicly available via the European Social Survey.
 
@@ -58,7 +58,7 @@ This analysis addresses:
 ### 1. Overall Political Posting Behaviour
 ![Political Posting Split](visuals/political_posting_share.png)
 
-Only a **minority of respondents post political content online**, highlighting that digital political voice is concentrated among specific groups.
+Only a **minority of respondents post political content online**, which shows that digital political voice is concentrated among specific groups.
 
 ---
 
@@ -83,7 +83,7 @@ Only a **minority of respondents post political content online**, highlighting t
 ![Education Gender](visuals/gender_education_posting.png)
 
 - Education level shows a **moderate relationship** with posting.
-- **Gender differences are minimal**, suggesting engagement gaps are driven more by **life stage and economics** than gender.
+- **Gender differences are minimal**, which suggests that engagement gaps are more influenced by **life stage and economics** than gender.
 
 ---
 
