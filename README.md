@@ -94,7 +94,7 @@ Only a **minority of respondents post political content online**, highlighting t
 
 > Individuals aged **35–54** who report **financial difficulty** (“Difficult” / “Very difficult”) are **significantly more likely to post political content online** than those living comfortably.
 
-This suggests **economic pressure amplifies political voice**, not apathy.
+This may suggest that economic pressure amplifies political voice, not apathy.
 
 ---
 
