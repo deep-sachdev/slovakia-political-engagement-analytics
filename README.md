@@ -2,7 +2,7 @@
 **Data Visualisation & Customer Insights Case Study (Tableau)**
 
 ## Overview
-This project analyses **33,351 survey responses** from the **European Social Survey (ESS)** to understand how **age, income stress, and education** influence **online political engagement** in Slovakia.
+This project analyses **responses** from the **European Social Survey (ESS)** to understand how **age, income stress, and education** influence **online political engagement** in Slovakia.
 
 The objective was not just to visualise data, but to **identify which demographic groups are most likely to express political voice online** and translate those insights into **clear, evidence-based conclusions**.
 
