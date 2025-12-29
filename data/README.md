@@ -4,7 +4,7 @@ This project uses data from the **European Social Survey (ESS)**, a large-scale,
 
 - **Source:** European Social Survey (ESS)
 - **Survey wave:** ESS Round 10
-- **Total records (after country filter):** 33,351 respondents
+- **Total records (after country filter):** 1,418 respondents
 - **Country focus:** Slovakia
 - **Data type:** Survey responses (demographic, socioeconomic, political behaviour)
 
@@ -12,7 +12,7 @@ This project uses data from the **European Social Survey (ESS)**, a large-scale,
 
 The raw ESS dataset exceeds GitHub file size limits and is therefore **not stored in this repository**.
 
-All analysis was performed on a **Slovakia-filtered subset** of the ESS data (33,351 records), derived from the official ESS release.
+All analysis was performed on a **Slovakia-filtered subset** of the ESS data, derived from the official ESS release.
 
 The dataset is publicly available and can be accessed here:
 - https://www.europeansocialsurvey.org/data/
