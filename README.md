@@ -56,14 +56,14 @@ This analysis addresses:
 ## Key Visuals & Insights
 
 ### 1. Overall Political Posting Behaviour
-![Political Posting Split](visuals/political_posting_split.png)
+![Political Posting Split](visuals/political_posting_share.png)
 
 Only a **minority of respondents post political content online**, highlighting that digital political voice is concentrated among specific groups.
 
 ---
 
 ### 2. Age as a Primary Driver
-![Age Group Posting](visuals/age_group_posting.png)
+![Age Group Posting](visuals/age_groups_posting_politics.png)
 
 - **Ages 35–54** are the most politically active online.
 - This group posts **above the dataset average (3.3 posts)**.
@@ -72,7 +72,7 @@ Only a **minority of respondents post political content online**, highlighting t
 ---
 
 ### 3. Cluster Analysis: Age vs Posting Frequency
-![Age Scatter Cluster](visuals/age_scatter_cluster.png)
+![Age Scatter Cluster](visuals/age_cluster_scatter.png)
 
 - The **35–54 cluster** contains multiple high-frequency posters (9–10+ posts/year).
 - Posting behaviour is **not evenly distributed**, as engagement is driven by a small, highly active subgroup.
@@ -80,7 +80,7 @@ Only a **minority of respondents post political content online**, highlighting t
 ---
 
 ### 4. Education & Gender Effects
-![Education Gender](visuals/education_gender_posting.png)
+![Education Gender](visuals/gender_education_posting.png)
 
 - Education level shows a **moderate relationship** with posting.
 - **Gender differences are minimal**, suggesting engagement gaps are driven more by **life stage and economics** than gender.
@@ -88,7 +88,7 @@ Only a **minority of respondents post political content online**, highlighting t
 ---
 
 ### 5. Income Stress as a Key Insight
-![Income Stress](visuals/income_feeling_posting.png)
+![Income Stress](visuals/income_feeling_engagement.png)
 
 **Most important finding:**
 
