@@ -135,7 +135,9 @@ This may suggest that economic pressure amplifies political voice, not apathy.
 
 ## Repository Structure
 README.md → Business context, insights, decisions
+
 visuals/ → Tableau dashboards & charts used in analysis
+
 data/ → Dataset notes & sourcing (ESS)
 
 
